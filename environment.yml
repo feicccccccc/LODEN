@@ -1,0 +1,5 @@
+name: loden
+channels:
+  - defaults
+prefix: /Users/fei/miniconda3/envs/loden
+

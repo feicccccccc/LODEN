@@ -135,4 +135,7 @@ experiment/*/data/
 .ipynb_checkpoints/
 .DS_store
 *.pt
-.idea
+.idea/
+.gym_data/*.json
+.gym_data/*.mp4
+*.ckpt
